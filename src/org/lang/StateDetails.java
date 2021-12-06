@@ -7,7 +7,7 @@ private void southIndia() {
 private void northIndia() {
 	System.out.println("North india is in northern part of india");
 }
-central
+central()
 public static void main(String[] args) {
 	StateDetails sd=new StateDetails();
 	sd.southIndia();
